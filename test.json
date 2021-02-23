@@ -1,0 +1,378 @@
+{
+  "structureCode": "math-l7-c20202-v1",
+  "projectCode": "math-l7-c20202",
+  "blocks": [
+    {
+      "code": "B1",
+      "title": "新知探究",
+      "type": "B1",
+      "disable": false,
+      "recommendDuration": 0
+    },
+    {
+      "code": "B2",
+      "title": "巩固练习",
+      "type": "B2",
+      "disable": false,
+      "recommendDuration": 0
+    }
+  ],
+  "parts": [
+    {
+      "code": "B1-P1",
+      "title": "知识点一",
+      "type": "P1",
+      "parent": "B1",
+      "disable": false
+    },
+    {
+      "code": "B1-P2",
+      "title": "知识点二",
+      "type": "P1",
+      "parent": "B1",
+      "disable": false
+    },
+    {
+      "code": "B1-P3",
+      "title": "知识点三",
+      "type": "P1",
+      "parent": "B1",
+      "disable": false
+    },
+    {
+      "code": "B1-P4",
+      "title": "知识点四",
+      "type": "P1",
+      "parent": "B1",
+      "disable": false
+    },
+    {
+      "code": "B2-P1",
+      "title": "巩固题",
+      "type": "P5",
+      "parent": "B2",
+      "disable": false
+    }
+  ],
+  "scenes": [
+    {
+      "code": "B1-P1-S1",
+      "title": "例题1",
+      "type": "S2",
+      "knowledge_point": "直接提取",
+      "capacity_tag": "S1",
+      "parent": "B1-P1",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S2",
+      "title": "练习",
+      "type": "S3",
+      "knowledge_point": "直接提取",
+      "capacity_tag": "S3",
+      "parent": "B1-P1",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S3",
+      "title": "隐藏",
+      "type": "S4",
+      "knowledge_point": "直接提取",
+      "capacity_tag": "S4",
+      "parent": "B1-P1",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S1",
+      "title": "例题2",
+      "type": "S2",
+      "knowledge_point": "多步提取",
+      "capacity_tag": "S1",
+      "parent": "B1-P2",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S2",
+      "title": "练习",
+      "type": "S3",
+      "knowledge_point": "多步提取",
+      "capacity_tag": "S3",
+      "parent": "B1-P2",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S3",
+      "title": "隐藏",
+      "type": "S4",
+      "knowledge_point": "多步提取",
+      "capacity_tag": "S4",
+      "parent": "B1-P2",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S1",
+      "title": "例题3",
+      "type": "S2",
+      "knowledge_point": "倍数法",
+      "capacity_tag": "S1",
+      "parent": "B1-P3",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S2",
+      "title": "练习",
+      "type": "S3",
+      "knowledge_point": "倍数法",
+      "capacity_tag": "S3",
+      "parent": "B1-P3",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S3",
+      "title": "隐藏3",
+      "type": "S4",
+      "knowledge_point": "倍数法",
+      "capacity_tag": "S4",
+      "parent": "B1-P3",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S1",
+      "title": "例题4",
+      "type": "S2",
+      "knowledge_point": "相近数法",
+      "capacity_tag": "S1",
+      "parent": "B1-P4",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S2",
+      "title": "练习4",
+      "type": "S3",
+      "knowledge_point": "相近数法",
+      "capacity_tag": "S3",
+      "parent": "B1-P4",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S3",
+      "title": "隐藏4",
+      "type": "S4",
+      "knowledge_point": "相近数法",
+      "capacity_tag": "S4",
+      "parent": "B1-P4",
+      "disable": false
+    },
+    {
+      "code": "B2-P1-S1",
+      "title": "巩固题",
+      "type": "S3",
+      "knowledge_point": "直接提取",
+      "capacity_tag": "S2",
+      "parent": "B2-P1",
+      "disable": false
+    }
+  ],
+  "elements": [
+    {
+      "code": "B1-P1-S1-E1",
+      "type": "question",
+      "title": "例题1-1",
+      "parent": "B1-P1-S1",
+      "material": "M0",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S1-E2",
+      "type": "question",
+      "title": "例题1-2",
+      "parent": "B1-P1-S1",
+      "material": "M1",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S2-E1",
+      "type": "question",
+      "title": "练习1-1",
+      "parent": "B1-P1-S2",
+      "material": "M3",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S2-E2",
+      "type": "question",
+      "title": "练习1-2",
+      "parent": "B1-P1-S2",
+      "material": "M4",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S3-E1",
+      "type": "question",
+      "title": "隐藏1-1",
+      "parent": "B1-P1-S3",
+      "material": "M5",
+      "disable": false
+    },
+    {
+      "code": "B1-P1-S3-E2",
+      "type": "question",
+      "title": "隐藏1-2",
+      "parent": "B1-P1-S3",
+      "material": "M6",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S1-E1",
+      "type": "question",
+      "title": "例题2",
+      "parent": "B1-P2-S1",
+      "material": "M7",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S2-E1",
+      "type": "question",
+      "title": "练习2-1",
+      "parent": "B1-P2-S2",
+      "material": "M9",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S3-E1",
+      "type": "question",
+      "title": "隐藏2-1",
+      "parent": "B1-P2-S3",
+      "material": "M10",
+      "disable": false
+    },
+    {
+      "code": "B1-P2-S3-E2",
+      "type": "question",
+      "title": "隐藏2-2",
+      "parent": "B1-P2-S3",
+      "material": "M11",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S1-E1",
+      "type": "question",
+      "title": "例题3-1",
+      "parent": "B1-P3-S1",
+      "material": "M12",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S1-E2",
+      "type": "question",
+      "title": "例题3-2",
+      "parent": "B1-P3-S1",
+      "material": "M13",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S2-E1",
+      "type": "question",
+      "title": "练习3-1",
+      "parent": "B1-P3-S2",
+      "material": "M15",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S2-E2",
+      "type": "question",
+      "title": "练习3-2",
+      "parent": "B1-P3-S2",
+      "material": "M16",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S3-E1",
+      "type": "question",
+      "title": "隐藏3-1",
+      "parent": "B1-P3-S3",
+      "material": "M17",
+      "disable": false
+    },
+    {
+      "code": "B1-P3-S3-E2",
+      "type": "question",
+      "title": "隐藏3-2",
+      "parent": "B1-P3-S3",
+      "material": "M18",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S1-E1",
+      "type": "question",
+      "title": "例题4-1",
+      "parent": "B1-P4-S1",
+      "material": "M19",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S1-E2",
+      "type": "question",
+      "title": "例题4-2",
+      "parent": "B1-P4-S1",
+      "material": "M20",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S2-E1",
+      "type": "question",
+      "title": "练习4-1",
+      "parent": "B1-P4-S2",
+      "material": "M22",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S2-E2",
+      "type": "question",
+      "title": "练习4-2",
+      "parent": "B1-P4-S2",
+      "material": "M23",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S3-E1",
+      "type": "question",
+      "title": "隐藏4-1",
+      "parent": "B1-P4-S3",
+      "material": "M24",
+      "disable": false
+    },
+    {
+      "code": "B1-P4-S3-E2",
+      "type": "question",
+      "title": "隐藏4-2",
+      "parent": "B1-P4-S3",
+      "material": "M25",
+      "disable": false
+    },
+    {
+      "code": "B2-P1-S1-E1",
+      "type": "question",
+      "title": "巩固1",
+      "parent": "B2-P1-S1",
+      "material": "M26",
+      "disable": false
+    },
+    {
+      "code": "B2-P1-S1-E2",
+      "type": "question",
+      "title": "巩固2",
+      "parent": "B2-P1-S1",
+      "material": "M27",
+      "disable": false
+    },
+    {
+      "code": "B2-P1-S1-E3",
+      "type": "question",
+      "title": "巩固3",
+      "parent": "B2-P1-S1",
+      "material": "M28",
+      "disable": false
+    }
+  ]
+}

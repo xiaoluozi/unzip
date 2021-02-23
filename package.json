@@ -1,0 +1,14 @@
+{
+  "name": "unzip",
+  "version": "1.0.0",
+  "description": "解压目录",
+  "main": "index.js",
+  "author": "sady",
+  "license": "MIT",
+  "devDependencies": {
+    "unzipper": "^0.10.11"
+  },
+  "dependencies": {
+    "semantic-release": "^17.3.9"
+  }
+}
